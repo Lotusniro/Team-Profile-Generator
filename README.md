@@ -10,7 +10,8 @@ jest, inquirer, and fs.
 jest is installed to test the unit tests for the classes.
 inquirere is used to prompt the user for the information.
 fs is used to write the file of the team.html.
-
+![screen
+](https://github.com/Lotusniro/Team-Profile-Generator/blob/main/starter/screenshots/Screenshot%202024-02-23%20at%2016.46.12.png)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
