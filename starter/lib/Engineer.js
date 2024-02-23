@@ -10,8 +10,8 @@ const Employee =require("./Employee")
             this.github =github;
             this.title ="Engineer";
         }
-    //    getGithub(){ return this.github}
-    //    getRole(){return "Engineer";}
+       getGithub(){ return this.github}
+       getRole(){return "Engineer";}
     }
 
 module.exports = Engineer;
