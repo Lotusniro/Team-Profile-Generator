@@ -15,7 +15,7 @@ fs is used to write the file of the team.html.
 ![screen
 ](https://github.com/Lotusniro/Team-Profile-Generator/blob/main/starter/screenshots/Screenshot%202024-02-23%20at%2016.46.12.png)
 
--following screenshot shows
+-following screenshot shows how the html file looks like after the creation.
 ![screen
 ](https://github.com/Lotusniro/Team-Profile-Generator/blob/main/starter/screenshots/Screenshot%202024-02-23%20at%2016.47.46.png)
 
