@@ -4,13 +4,13 @@ name,id,email,getName(),getId(),getEmail(),getRole() —returns 'Employee'
 The other three classes will extend Employee. */
 
 
-// class Employee {
-//     constructor(name, id, email) {
-//         this.name = name;
-//         this.id = id;
-//         this.email = email;
-//         this.title = "Employee";
-//     }
+class Employee {
+    constructor(name, id, email) {
+        this.name = name;
+        this.id = id;
+        this.email = email;
+        this.title = "Employee";
+    }
     getName() {
         return this.name;
     }
